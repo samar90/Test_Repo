@@ -1,0 +1,56 @@
+[05-Apr-2018 05:21:03 UTC] PHP Warning:  require_once(/home/hrisirbureau/public_html/system/core/CodeIgniter.php): failed to open stream: No such file or directory in /home/hrisirbureau/public_html/index.php on line 315
+[05-Apr-2018 05:21:03 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/hrisirbureau/public_html/system/core/CodeIgniter.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hrisirbureau/public_html/index.php on line 315
+[05-Apr-2018 05:21:04 UTC] PHP Warning:  require_once(/home/hrisirbureau/public_html/system/core/CodeIgniter.php): failed to open stream: No such file or directory in /home/hrisirbureau/public_html/index.php on line 315
+[05-Apr-2018 05:21:04 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/hrisirbureau/public_html/system/core/CodeIgniter.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hrisirbureau/public_html/index.php on line 315
+[05-Apr-2018 05:21:04 UTC] PHP Warning:  require_once(/home/hrisirbureau/public_html/system/core/CodeIgniter.php): failed to open stream: No such file or directory in /home/hrisirbureau/public_html/index.php on line 315
+[05-Apr-2018 05:21:04 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/hrisirbureau/public_html/system/core/CodeIgniter.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hrisirbureau/public_html/index.php on line 315
+[05-Apr-2018 05:21:12 UTC] PHP Warning:  require_once(/home/hrisirbureau/public_html/system/core/CodeIgniter.php): failed to open stream: No such file or directory in /home/hrisirbureau/public_html/index.php on line 315
+[05-Apr-2018 05:21:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/hrisirbureau/public_html/system/core/CodeIgniter.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hrisirbureau/public_html/index.php on line 315
+[05-Apr-2018 05:23:46 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/hrisirbureau/public_html/system/core/compat/mbstring.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hrisirbureau/public_html/system/core/CodeIgniter.php on line 287
+[05-Apr-2018 05:23:48 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/hrisirbureau/public_html/system/core/compat/mbstring.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hrisirbureau/public_html/system/core/CodeIgniter.php on line 287
+[05-Apr-2018 05:24:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/hrisirbureau/public_html/system/core/compat/mbstring.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hrisirbureau/public_html/system/core/CodeIgniter.php on line 287
+[05-Apr-2018 05:27:32 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/hrisirbureau/public_html/system/core/compat/mbstring.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hrisirbureau/public_html/system/core/CodeIgniter.php on line 287
+[05-Apr-2018 05:27:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/hrisirbureau/public_html/system/core/compat/mbstring.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hrisirbureau/public_html/system/core/CodeIgniter.php on line 287
+[05-Apr-2018 06:12:23 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/hrisirbureau/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[05-Apr-2018 06:13:34 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/hrisirbureau/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[05-Apr-2018 06:15:50 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/hrisirbureau/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[05-Apr-2018 06:16:25 UTC] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/hrisirbureau/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[14-May-2018 10:49:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/hrisirbureau/public_html/application/controllers/Leaves.php on line 983
+[14-May-2018 10:49:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/hrisirbureau/public_html/application/controllers/Leaves.php on line 983
+[14-May-2018 10:50:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/hrisirbureau/public_html/application/controllers/Leaves.php on line 983
+[03-Jul-2018 16:12:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>' in /home/hrisirbureau/public_html/application/views/leave-management/admin_leave_home.php on line 80
+[03-Dec-2018 10:50:38 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[03-Dec-2018 10:52:08 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[03-Dec-2018 10:53:39 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[17-Dec-2018 10:38:56 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[17-Dec-2018 10:40:27 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[17-Dec-2018 10:41:58 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[17-Dec-2018 10:43:28 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[17-Dec-2018 10:44:58 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[17-Dec-2018 10:46:29 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[17-Dec-2018 10:47:59 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[17-Dec-2018 10:49:29 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[17-Dec-2018 10:51:00 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[17-Dec-2018 10:52:30 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[28-Dec-2018 11:07:10 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[28-Dec-2018 11:08:40 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[28-Dec-2018 11:10:10 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[02-Jan-2019 10:49:42 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public[27-Jun-2019 07:17:36 UTC] PHP Warning:  mysql_connect(): Connection refused in /home/hrisirbureau/public_html/testconnect.php on line 6
+[27-Jun-2019 07:18:35 UTC] PHP Warning:  mysql_connect(): Connection refused in /home/hrisirbureau/public_html/testconnect.php on line 6
+[27-Jun-2019 07:20:37 UTC] PHP Warning:  mysql_connect(): Connection refused in /home/hrisirbureau/public_html/testconnect.php on line 6
+[27-Jun-2019 07:21:17 UTC] PHP Warning:  mysql_connect(): Connection refused in /home/hrisirbureau/public_html/testconnect.php on line 6
+[27-Jun-2019 07:24:08 UTC] PHP Warning:  mysql_connect(): Connection refused in /home/hrisirbureau/public_html/testconnect.php on line 6
+[27-Jun-2019 07:26:47 UTC] PHP Warning:  mysql_connect(): Connection refused in /home/hrisirbureau/public_html/testconnect.php on line 6
+[27-Jun-2019 07:26:58 UTC] PHP Warning:  mysql_connect(): Access denied for user 'develsi8_hris'@'localhost' (using password: YES) in /home/hrisirbureau/public_html/testconnect.php on line 6
+[27-Jun-2019 07:27:10 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hrisirbureau/public_html/testconnect.php on line 6
+[27-Jun-2019 07:27:10 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hrisirbureau/public_html/testconnect.php on line 6
+[27-Jun-2019 07:27:27 UTC] PHP Warning:  mysql_connect(): Connection refused in /home/hrisirbureau/public_html/testconnect.php on line 6
+[27-Jun-2019 07:27:43 UTC] PHP Warning:  mysql_connect(): Connection refused in /home/hrisirbureau/public_html/testconnect.php on line 6
+[27-Jun-2019 07:27:56 UTC] PHP Warning:  mysql_connect(): Connection refused in /home/hrisirbureau/public_html/testconnect.php on line 6
+[27-Jun-2019 07:34:34 UTC] PHP Warning:  mysql_connect(): Connection refused in /home/hrisirbureau/public_html/testconnect.php on line 6
+[27-Jun-2019 07:34:38 UTC] PHP Warning:  mysql_connect(): Connection refused in /home/hrisirbureau/public_html/testconnect.php on line 6
+[28-Jun-2019 12:34:27 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[05-Jul-2019 12:31:31 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 261
+[05-Jul-2019 17:16:03 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[05-Jul-2019 18:22:37 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[05-Jul-2019 19:53:30 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/hrisirbureau/public_html/system/libraries/Session/drivers/Session_files_driver.php on line 263
